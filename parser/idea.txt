@@ -1,0 +1,6 @@
+guardar las llaves que creo
+
+nombre_tabla indice_usado nombre_columna
+
+de este modo cuando tenga un select, insert delete con el nombre de la tabla puedo sacarlo altoque.
+y como seran pocos puedo aplicar busqueda lineal

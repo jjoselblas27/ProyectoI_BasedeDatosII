@@ -1,14 +1,12 @@
 # ProyectoI_BasedeDatosII
 ## INTEGRANTES:
-- FERNANDO ADRIANO CHUQUIN MEJIA
+- FERNANDO ADRIANO CHOQQUE MEJIA
 - CARLOS FLORES PANDURO
 - JUAN LEANDRO BLAS
 
 
 # DATASET
 Utilizamos un dataset - 10+ M. Beatport Tracks / Spotify Audio Features.
-
-
 
 
 
